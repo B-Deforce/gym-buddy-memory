@@ -1,18 +1,16 @@
-# Gym Buddy Memory
+# Gym Partner Memory
 
-Weekly Training Log:
+## Profile
 
-- Monday: 
-- Tuesday: 
-- Wednesday: 
-- Thursday: 
-- Friday: 
-- Saturday: 
-- Sunday: 
-
-Preferences: 
-
+### Long-term goals
 - 
-Injuries / Limitations:
 
+### Preferences
 - 
+
+### Constraints / Injuries
+- 
+
+## Weekly Log
+
+_No workouts logged yet._
