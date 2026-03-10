@@ -3,7 +3,9 @@
 ## Profile
 
 ### Long-term goals
-- 
+- Him: muscle gain while maintaining endurance for trail running and DH/enduro mtb riding.
+- Her: fat burn + muscle gain.
+- Shared: build toward trail runs and at least one 10K during the year.
 
 ### Preferences
 - 
@@ -31,3 +33,5 @@ Her:
 - DB Bench — 10 lb each
 - Cable Curl — 12.5 lb
 - Triceps Pushdown — 12.5 lb
+
+- 3 mile run — easy/moderate (2 days after gym session, both)
