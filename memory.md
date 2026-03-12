@@ -15,6 +15,20 @@
 
 ## Weekly Log
 
+### Week of 2026-03-09
+- Upper Body Gym Session (54 min )
+
+Exercises — 4 sets each (weights not recorded):
+- Dips
+- Seated Row Machine
+- TRX Chest Fly
+- Dumbbell Hammer Curl
+- Overhead DB Tricep Extension
+- Face Pulls
+- Hanging Knee Raises
+
+Notes: felt good for both.
+
 ### Week of 2026-03-02
 - Full Body (3 sets)
 
