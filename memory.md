@@ -24,5 +24,11 @@
   - Core: Russian twists, planks, hanging knee raises
   - Notes: short rest, hard effort, 5-min treadmill warmup
 
+### 2026-03-20
+- Run: 3 miles, steady pace
+
+### 2026-03-22
+- Run: 4 miles, steady pace, good progression
+
 ### Week of 2026-03-09
 - Upper Body Gym Session (54 min)
