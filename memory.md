@@ -30,5 +30,12 @@
 ### 2026-03-22
 - Run: 4 miles, steady pace, good progression
 
+### 2026-03-23
+- Upper Body (3 x 8-12 reps)
+  - Block A: Incline DB Press 30 lb, DB Shoulder Press 35 lb, Seated Row 128 lb
+  - Audr: Incline/Shoulder 12.5 lb, Seated Row 103-111 lb
+  - Block B: Lat Pulldown 104 lb, Lateral Raises 40 lb, Tricep Pushdown 50 lb
+  - Audr: Lat Pulldown 85 lb, Lateral 20 lb, Tricep 22.5 lb
+
 ### Week of 2026-03-09
 - Upper Body Gym Session (54 min)
