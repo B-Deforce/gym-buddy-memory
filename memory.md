@@ -37,5 +37,8 @@
   - Block B: Lat Pulldown 104 lb, Lateral Raises 40 lb, Tricep Pushdown 50 lb
   - Audr: Lat Pulldown 85 lb, Lateral 20 lb, Tricep 22.5 lb
 
+### 2026-03-25
+- Run: 4 miles, steady pace
+
 ### Week of 2026-03-09
 - Upper Body Gym Session (54 min)
