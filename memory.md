@@ -15,6 +15,14 @@
 
 ## Weekly Log
 
+### Week of 2026-04-06
+### 2026-04-09
+- Short Full Body Gym (30 min)
+  - Block A: Incline DB Press 30 -> 35 lb, Seated Row 130 x2 -> 150, Goblet Squat 35 -> 40 lb
+  - Block B: Lat Pulldown 115 lb, Single-leg KB RDL 35 lb
+  - Core: Plank 2x, Russian twists 1x, Sit ups 1x
+  - Notes: quick session, stronger seated row at 150 lb - use as starting weight next time
+
 ### Week of 2026-03-30
 ### 2026-04-01
 - Run: 3 miles, steady pace
