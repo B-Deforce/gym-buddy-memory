@@ -15,6 +15,13 @@
 
 ## Weekly Log
 
+### Week of 2026-03-30
+### 2026-04-01
+- Run: 3 miles, steady pace
+
+### 2026-04-04
+- Run: 3 miles, steady pace
+
 ### Week of 2026-03-16
 ### 2026-03-17
 - Leg Day (& core, ~ 1 hr)
